@@ -1,0 +1,17 @@
+.container{
+    margin-bottom: 100px;
+}
+
+
+.carousel-item{
+    padding: 20px 40px;
+}
+.btn btn-dark{
+    padding: 10px 15px;
+}
+small{
+    color: orange;
+}
+.card-title,.card-text{
+    text-align: center;
+}
